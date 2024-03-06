@@ -6,7 +6,7 @@
 </h1>
 
 
-<a href="https://blog-programming.000webhostapp.com//" style="text-decoration: none; color: purple">
+<a href="https://encurtador.com.br/ntNV8" style="text-decoration: none; color: purple">
 <h2 style="text-align: center; margin: 0;"> Para explorar o site, clique aqui!</h2></a>
 
 
