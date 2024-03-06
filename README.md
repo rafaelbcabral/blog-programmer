@@ -6,8 +6,8 @@
 </h1>
 
 
-<a href="https://blog-programming.000webhostapp.com//" style="text-decoration: none; color: purple; font-size: 25px; ">
-  🟣 Clique aqui para explorar o site!
+<a href="https://blog-programming.000webhostapp.com//">
+  <b style="text-decoration: none; color: purple">🟣 Clique aqui para explorar o site!</b>
 </a>
 
 
