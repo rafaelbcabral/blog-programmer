@@ -6,9 +6,8 @@
 </h1>
 
 
-<a href="https://blog-programming.000webhostapp.com//" style="text-decoration: none; color: purple">
-<h2 style="text-align: center; margin: 0;"><img src="img/logo.svg" width= 20> Para explorar o site, clique aqui!</h2>
-</a>
+<a href="https://blog-programming.000webhostapp.com/" style="text-decoration: none; color: purple">
+<h2 style="text-align: center; margin: 0;"> Para explorar o site, clique aqui!</h2></a>
 
 
 ## 📔 Sobre
