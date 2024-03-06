@@ -11,6 +11,7 @@
 </a>
 
 
+
 ## 📔 Sobre
 
 - Este site é um blog de programação que utiliza HTML, CSS e PHP para sua estrutura e funcionalidades. A página inicial apresenta uma lista de postagens com títulos, descrições e tags, onde os usuários podem clicar para ler mais sobre cada postagem. O layout responsivo garante uma boa experiência de navegação em dispositivos móveis.
