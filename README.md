@@ -5,7 +5,10 @@
 <br>
 </h1>
 
-[<h2 style="text-decoration: none; color: red; text-align:center;"><img src="img/logo.svg" width= 25> Para explorar o site, clique aqui!</p>](https://blog-programming.000webhostapp.com//)
+
+<a href="https://blog-programming.000webhostapp.com//" style="text-decoration: none; color: purple">
+<h2 style="text-align: center; margin: 0;"> Para explorar o site, clique aqui!</h2></a>
+
 
 ## 📔 Sobre
 
