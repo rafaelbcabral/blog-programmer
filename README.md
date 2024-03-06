@@ -6,8 +6,9 @@
 </h1>
 
 
-<a href="https://encurtador.com.br/ntNV8">
-<h2 style="text-align: center; margin: 0; color: purple"> 🟣 Para explorar o site, clique aqui!</h2></a>
+<a href="https://www.facebook.com" target="_blank" style="color: purple; font-size: 25px">
+  🟣 Clique aqui para explorar o site!
+</a>
 
 
 ## 📔 Sobre
