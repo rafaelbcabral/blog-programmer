@@ -6,7 +6,7 @@
 </h1>
 
 
-<a href="https://www.facebook.com" target="_blank" style="color: purple; font-size: 25px">
+<a href="https://blog-programming.000webhostapp.com//" target="_blank" style="text-decoration: none; color: purple; font-size: 25px">
   🟣 Clique aqui para explorar o site!
 </a>
 
